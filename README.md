@@ -2,6 +2,7 @@
 
 Start:
 
+(przy pierwszym uruchomieniu trzeba poczekać z 2-3 min zanim wszystko sie uruchomi)
 ```sh
 docker-compose up -d
 ```
