@@ -3,7 +3,7 @@
 Start:
 
 ```sh
-docker-compose up -g
+docker-compose up -d
 ```
 
 Stop:
