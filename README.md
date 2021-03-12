@@ -13,4 +13,4 @@ docker-compose stop
 ```
 
 Po uruchomieniu wordpress jest dostępny pod adresem:
-[localhost:8080](http://localhot:8080)
+[localhost:8080](http://localhost:8080)
